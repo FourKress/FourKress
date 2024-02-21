@@ -1,4 +1,4 @@
-### Hi there 👋
+### 您好，我是吴东 👋
 
 <!--
 **FourKress/FourKress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 希望成为一名靠谱且发量健康的开发工程师.
+- 🌱 最近在学习Rust/vue3/Node.js.
+- 📫 HTML/CSS/SCSS/JavaScript/TypeScript/Vue/React/NodeJS/Nest/MySQL/Redis/Vite
+- 😄 始终相信技术的力量，学无止境，但 人生最好是小满~.
